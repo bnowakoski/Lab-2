@@ -1,0 +1,18 @@
+﻿bbody
+{
+  margin-top:35px;
+}
+
+h1{
+  
+}
+
+li{
+    text-align: center;
+}
+.container .jumbotron, .container-fluid .jumbotron {
+        border-top-right-radius: 35px;
+        border-top-left-radius: 35px;
+        border-bottom-right-radius: 35px;
+        border-bottom-left-radius: 35px;
+}
